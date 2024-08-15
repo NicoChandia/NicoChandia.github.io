@@ -1,0 +1,36 @@
+/* styles.css */
+
+/* Estilos para el header */
+header.jumbotron {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 4rem 2rem;
+}
+
+header.jumbotron .display-4 {
+    font-size: 3rem;
+}
+
+header.jumbotron .lead {
+    font-size: 1.25rem;
+}
+
+/* Estilos para las tarjetas de proyectos */
+.card {
+    border-radius: 0.5rem;
+}
+
+.card-img-top {
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+/* Estilos para el formulario de contacto */
+form .form-group {
+    margin-bottom: 1rem;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
