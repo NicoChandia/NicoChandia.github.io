@@ -1,0 +1,8 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 760px; margin: 0 auto; padding: 2rem 1.2rem 4rem; color: #1c2b27; line-height: 1.6; }
+h1 { font-size: 1.7rem; margin-bottom: .2rem; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+.fecha { color: #5d6f6a; margin-top: 0; }
+.marca { font-weight: 700; color: #0f8a6b; }
+nav a { margin-right: 1rem; color: #0b6b53; }
+.aviso { background: #e6f6f0; border-left: 4px solid #0f8a6b; padding: .8rem 1rem; border-radius: 6px; }
+footer { margin-top: 3rem; font-size: .9rem; color: #5d6f6a; }
